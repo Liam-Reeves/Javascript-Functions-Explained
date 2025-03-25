@@ -8,7 +8,7 @@ function printThis(param){
 }
 
 printThis('Liam');
-
+ 
 
 //Fucntion Expression
 const stock = function(item1, item2){
