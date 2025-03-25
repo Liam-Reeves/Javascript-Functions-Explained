@@ -14,3 +14,7 @@ const calculateShopDiscount =(price, discount) => price * (1 - discount);
 const CustomerDiscount = (price, discount) => price * (1 - discount);
 
 const studentAge = (currentYear, dateOfBirth) => (currentYear - dateOfBirth);
+
+const add = (a,b) =>a+b;
+
+add(10,20);
